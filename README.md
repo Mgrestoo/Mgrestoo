@@ -2,13 +2,13 @@
 
 <!### Hi there, I'm Abiud Magora
 
-**Junior Developer | Web & Mobile | Firebase | GitHub**
+**Junior Developer | Web & Mobile | Firebase | GitHub | Excel**
 
 I'm a passionate junior developer with hands-on experience in both web and Android development. I studied software development at Emobilis, and I enjoy building clean, responsive, and functional apps using tools like Django, Kotlin, and Firebase. I'm currently learning more about cybersecurity and computer science to deepen my technical capabilities.
 
 ---
 
-### Tech Stack
+### Skills
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -42,7 +42,7 @@ A lightweight calculator app for Android, capable of basic arithmetic operations
 
 ---
 
-### Contact Me
+### Socials
 
 - Email: [abiudmagora@gmail.com](mailto:abiudmagora@gmail.com)  
 - GitHub: [github.com/Mgrestoo](https://github.com/Mgrestoo)  
